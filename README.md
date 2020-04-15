@@ -8,3 +8,5 @@ https://support.tokbox.com/hc/en-us/articles/360029412112-How-can-I-quickly-buil
  
 github repo
 https://github.com/opentok/opentok-android-sdk-samples
+
+![alt tag](device-2020-04-15-125359.png)
