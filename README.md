@@ -1,4 +1,4 @@
-# Attempted-Video-Chat
+# Attempted-Video-Chat With TOKBOX VIDEO API
 An application that is based on video calls. Learning about video calls and how it works
 
 Using the TOKBOX Video API
